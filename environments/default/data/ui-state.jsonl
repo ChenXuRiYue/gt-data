@@ -1,6 +1,6 @@
-{"k":"git.history.1oyow37.1t30hzc","v":{"expandedCommitId":"ed733e746b1cd788aafe74a3ee3d4a23bdca4a99","focusedCommitId":"ed733e746b1cd788aafe74a3ee3d4a23bdca4a99","updatedAt":1782391383043,"version":1},"t":1782391383}
 {"k":"git.changes.selection.1oyow37.1t30hzc","v":{"checkedPaths":["src-tauri/crates/gt-store/src/namespace.rs"],"updatedAt":1782391403723,"version":1},"t":1782391403}
-{"k":"git.history.utxg68.1t30hzc","v":{"expandedCommitId":null,"focusedCommitId":"1aa9d81141ff6f78acc756c9ef1eeb7110e2b478","updatedAt":1782320215522,"version":1},"t":1782320215}
-{"k":"store.view.active","v":{"namespace":"workspace","updatedAt":1782392740459,"version":1,"viewMode":"compact"},"t":1782392740}
+{"k":"store.view.active","v":{"namespace":"workspace","updatedAt":1782392745102,"version":1,"viewMode":"compact"},"t":1782392745}
 {"k":"store.domain.width","v":160,"t":1782320199}
+{"k":"git.history.1oyow37.1t30hzc","v":{"expandedCommitId":"ed733e746b1cd788aafe74a3ee3d4a23bdca4a99","focusedCommitId":"ed733e746b1cd788aafe74a3ee3d4a23bdca4a99","updatedAt":1782391383043,"version":1},"t":1782391383}
 {"k":"git.changes.selection.utxg68.1t30hzc","v":{"checkedPaths":[],"updatedAt":1782320028760,"version":1},"t":1782320028}
+{"k":"git.history.utxg68.1t30hzc","v":{"expandedCommitId":null,"focusedCommitId":"1aa9d81141ff6f78acc756c9ef1eeb7110e2b478","updatedAt":1782320215522,"version":1},"t":1782320215}
