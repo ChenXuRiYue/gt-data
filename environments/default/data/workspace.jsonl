@@ -1,5 +1,6 @@
+{"k":"repo.recent","v":["/Users/mi/rust_code/GitTributary/","/Users/mi/rust_code/gt-test/","/Users/mi/rust_code/GitTributary/src","/Users/mi/rust_code/GitTributary","/Users/mi/rust_code/toolBox","/Users/mi/rust_code/tauri-demo"],"t":1782633651}
+{"k":"repo.bound","v":[],"t":1782563517}
 {"k":"device.id","v":"47ec0fad","t":1782392733}
-{"k":"device.name","v":"MIdeMacBook-Pro.local","t":1782392733}
-{"k":"repo.recent","v":["/Users/mi/rust_code/GitTributary","/Users/mi/rust_code/toolBox","/Users/mi/rust_code/tauri-demo"],"t":1782392733}
-{"k":"repo.branch","v":"main","t":1782392733}
-{"k":"repo.active","v":"/Users/mi/rust_code/GitTributary","t":1782392733}
+{"k":"device.name","v":"MIdeMacBook-Pro.local","t":1782563749}
+{"k":"repo.active","v":"/Users/mi/rust_code/GitTributary/","t":1782633651}
+{"k":"repo.branch","v":"main","t":1782633651}
